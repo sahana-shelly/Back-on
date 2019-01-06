@@ -1,0 +1,23 @@
+{
+  "name": "Back_on",
+  "authors": [
+    "Sahana Shelly <sahana.shelly@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "boostrap": "bootstrap#^4.1.3",
+    "jquery": "^3.3.1",
+    "owl.carousel": "^2.3.4",
+    "isotope-layout": "^3.0.6"
+  }
+}
